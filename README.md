@@ -8,7 +8,7 @@
 [![Status](https://img.shields.io/badge/Status-En%20Desarrollo-28a745)](https://github.com/tu-usuario/residencial-del-maule-crud)
 
 <p align="center">
-  <img src="https://i.imgur.com/5qJ8vKp.png" alt="Residencial del Maule - Linares, Chile" width="800"/>
+  <img src="https://github.com/Proyecto-db-ucm/Proyecto/blob/main/notfound.png" alt="Residencial del Maule - Linares, Chile" width="800"/>
   <br>
   <em>Hostal Residencial del Maule - Linares, Región del Maule, Chile</em>
 </p>
